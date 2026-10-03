@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ec64ede043.qustfocus.cn/sitemap.xml
